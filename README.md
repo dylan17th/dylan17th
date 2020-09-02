@@ -1,5 +1,5 @@
 ### Hi there 👋
-- My name is Dylan Collins and I am a full stack web developer with a background in business administration and marketing. I am currently searching for new opportunities in Pennsylvania, Delaware and New Jersey.
+My name is Dylan Collins and I am a full stack web developer with a background in business administration and marketing. I am currently searching for new opportunities in Pennsylvania, Delaware and New Jersey.
 
 - 🔭 I’m currently building a website for ArchLife's Lambda Neurtechnology handbands.
 - 🌱 Recently finished the core curriculum at Lambda School.
